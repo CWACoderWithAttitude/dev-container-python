@@ -1,2 +1,2 @@
-# dev-container-nodejs
-Dev container NodeJS / TypeScript
+# dev-container-python
+Dev container for python3
